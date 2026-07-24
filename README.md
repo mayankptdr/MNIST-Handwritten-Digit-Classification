@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠 MNIST Handwritten Digit Classification using CNN & RNN
+#  MNIST Handwritten Digit Classification using CNN & RNN
 
 ### Deep Learning Project using PyTorch
 
@@ -21,8 +21,8 @@ A comparative study of **Convolutional Neural Networks (CNN)** and **Recurrent N
 
 This project demonstrates the implementation and comparison of two popular Deep Learning architectures:
 
-- 🧠 Convolutional Neural Network (CNN)
-- 🔁 Recurrent Neural Network (RNN)
+-  Convolutional Neural Network (CNN)
+-  Recurrent Neural Network (RNN)
 
 Both models are implemented using **PyTorch**, trained on the **MNIST Handwritten Digit Dataset**, and evaluated using multiple performance metrics.
 
@@ -37,7 +37,7 @@ The project also includes:
 
 ---
 
-# 🎯 Objectives
+#  Objectives
 
 - Build a CNN for image classification.
 - Build an RNN by treating images as sequential data.
@@ -47,7 +47,7 @@ The project also includes:
 
 ---
 
-# 📂 Dataset
+#  Dataset
 
 **Dataset:** MNIST Handwritten Digits
 
@@ -59,7 +59,7 @@ The project also includes:
 
 ---
 
-# 📷 Sample Images
+#  Sample Images
 
 <p align="center">
 <img src="images/sample_digits.png" width="650">
@@ -67,7 +67,7 @@ The project also includes:
 
 ---
 
-# 📊 Dataset Distribution
+#  Dataset Distribution
 
 <p align="center">
 <img src="images/dataset_distribution.png" width="650">
@@ -89,7 +89,7 @@ The project also includes:
 
 ---
 
-# 🧠 CNN Architecture
+#  CNN Architecture
 
 ```
 Input Image (1 × 28 × 28)
@@ -173,7 +173,7 @@ Output (10 Classes)
 
 ---
 
-# 🔁 RNN Architecture
+#  RNN Architecture
 
 Each image is treated as a sequence.
 
@@ -255,20 +255,20 @@ Output (10 Classes)
 
 | Model | Test Accuracy |
 |--------|--------------:|
-| 🧠 CNN | **99.15%** |
-| 🔁 RNN | **96.72%** |
+|  CNN | **99.15%** |
+|  RNN | **96.72%** |
 
 ---
 
-# 📋 Evaluation Metrics
+#  Evaluation Metrics
 
 The models were evaluated using:
 
-- ✅ Accuracy
-- ✅ Confusion Matrix
-- ✅ Classification Report
-- ✅ Training Loss
-- ✅ Validation Loss
+-  Accuracy
+-  Confusion Matrix
+-  Classification Report
+-  Training Loss
+-  Validation Loss
 
 ---
 
@@ -340,23 +340,10 @@ jupyter notebook
 
 ---
 
-# 🔮 Future Improvements
-
-- Implement LSTM
-- Implement GRU
-- Compare CNN vs RNN vs LSTM vs GRU
-- Hyperparameter Tuning
-- TensorBoard Integration
-- GPU Benchmarking
-- Deploy using Streamlit
-
----
 
 # 👨‍💻 Author
 
 ## **Mayank Patidar**
-
-🎓 B.Tech in Artificial Intelligence & Data Science
 
 🔗 GitHub: https://github.com/mayankptdr
 
